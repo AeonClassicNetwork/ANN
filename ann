@@ -1,0 +1,48 @@
+[size=14pt]A lightweight CryptoNote digital currency[/size]
+
+[b][size=24pt]Welcome to the Aeon Classic Network[/size][/b]
+
+[size=18pt][url=https://aeonclassic.org/]https://aeonclassic.org/[/url][/size]
+
+[list]
+[li]CPoW algorithm: CryptoNight-Lite v1[/li]
+[li]Max supply: ~36.8 million[/li]
+[li]Block reward: smoothly decreasing[/li]
+[li]Block time: 120 seconds[/li]
+[li]Difficulty: retargets at every block[/li]
+[li]Absolutely no premine or ICO, fairly launched.[/li]
+[/list]
+
+[size=14pt]AEON started with a vision to become a lightweight and faster version of XMR that can run on any hardware. Somewhere on the way to that goal, we got a bit sidetracked. I want to make this better, and to do that, we need to start from scratch with a codebase that is actively maintained and build the right team to see it through. That's why I'm releasing Aeon Classic, a re-envisioning of the original intentions of the Aeon Project; bringing cryptocurrency mining and transactions to mobile phones across the world. Join us today.
+
+We are posting this announcement at exactly the same time we are launching the chain. [b]There will be no premine or ICO of any kind.[/b][/size]
+
+[size=18pt][url=https://github.com/Biolith/xwallet-electron/releases]Download GUI Wallet[/url][/size]
+
+[size=18pt][url=https://discord.gg/pF8Es6w]Join Our Discord[/url][/size]
+
+[size=18pt]Resources[/size]
+[list]
+[li]GitHub:          [url=https://github.com/Biolith/xwallet-electron/releases]https://github.com/Biolith/xwallet-electron/releases[/url][/li]
+[li]Command Line Wallet:          [url=https://github.com/Biolith/Aeon-Classic/releases]https://github.com/Biolith/Aeon-Classic/releases[/url][/li]
+[li]GUI Wallet:          [url=https://github.com/Biolith/xwallet-electron/releases]https://github.com/Biolith/xwallet-electron/releases[/url][/li]
+[li]WebWallet:          [url=https://xmlc.ml]https://xmlc.ml[/url][/li]
+[li]Android Wallet     [url=https://github.com/Biolith/android-wallet-wrapper/releases]https://github.com/Biolith/android-wallet-wrapper/releases[/url][/li]
+[li]Discord:          [url=https://discord.gg/pF8Es6w]https://discord.gg/pF8Es6w[/url][/li]
+[li]Twitter:          [url=https://twitter.com/AeonClassic]https://twitter.com/AeonClassic[/url][/li]
+[/list]
+
+[size=18pt]Mining Pools[/size]
+
+[list]
+[li][url=http://xmlc.nbxpool.com]xmlc.nbxpool.com[/url][/li] 
+[li][url=http://hashblaster.com]hashblaster.com[/url][/li]
+[li][url=http://xmlc.cncoin.cf]xmlc.cncoin.cf[/url][/li]
+[/list]
+
+[size=18pt]Block Explorer[/size]
+
+[list]
+[li]https://explorer.aeonclassic.org/  [b]Official[/b] [/li]
+[li]https://hashblaster.com/#blockchain_blocks[/li]
+[/list]
